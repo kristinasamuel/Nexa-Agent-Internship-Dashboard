@@ -20,7 +20,7 @@ const projects = [
     level: "Beginner",
     features: ["Function calling", "JSON response", "Error handling"],
     icon: <FaRobot />,
-    demoLink: "https://youtu.be/l-ptqpKytXk?si=63ICDETMfqsP9ctC",
+    demoLink: "https://youtu.be/w1dEv5bn0vo?si=hr2HQQHwNLS9yqXO",
     liveLink: "https://nexe-agent-agentic-ai-developer.vercel.app/",
     repoLink: "https://github.com/kristinasamuel/Nexe-Agent-Agentic-AI-Developer-Internship-Tasks-/tree/main/BEGINNER/Tool-Calling-Ai-Agent"
   },
@@ -29,7 +29,7 @@ const projects = [
     level: "Beginner",
     features: ["Math operations", "Memory", "Structured output"],
     icon: <FaCalculator />,
-    demoLink: "https://youtu.be/hjSpi9umWxw?si=g8CuDrIXbPPO_eCz",
+    demoLink: "https://youtu.be/CRRHIoYHju4?si=yDvz8KqMcCcxLZBe",
     liveLink: "https://nexe-agent-agentic-ai-developer-int.vercel.app/",
     repoLink: "https://github.com/kristinasamuel/Nexe-Agent-Agentic-AI-Developer-Internship-Tasks-/tree/main/BEGINNER/Ai-Calculator-Agent"
   },
@@ -38,9 +38,9 @@ const projects = [
     level: "Intermediate",
     features: ["Web search", "Save to DB", "Send email"],
     icon: <FaTools />,
-    demoLink: "#",
-    liveLink: "#",
-    repoLink: "#"
+    demoLink: "https://youtu.be/Yq0cJFwXEcU?si=jTOmJsmjByyzdEcl",
+    liveLink: "https://nexe-agent-agentic-ai-developer-intermediate-tool-agent.vercel.app/",
+    repoLink: "https://github.com/kristinasamuel/Nexe-Agent-Agentic-AI-Developer-Internship-Tasks-/tree/main/INTERMEDIATE/Multi-Tool-Agent"
   },
   {
     title: "RAG Assistant",

@@ -47,18 +47,18 @@ const projects = [
     level: "Intermediate",
     features: ["Upload documents", "Vector store", "Contextual answers"],
     icon: <FaDatabase />,
-    demoLink: "#",
-    liveLink: "#",
-    repoLink: "#"
+    demoLink: "https://youtu.be/SO61OObUyMs?si=DOou7t_Od_t5lpdG",
+    liveLink: "https://nexe-agent-agentic-ai-developer-rag-assistant.vercel.app/",
+    repoLink: "https://github.com/kristinasamuel/Nexe-Agent-Agentic-AI-Developer-Internship-Tasks-/tree/main/INTERMEDIATE/RAG-Assistant"
   },
   {
     title: "Autonomous Business Agent",
     level: "Advanced",
     features: ["Multi-step reasoning", "Task planning", "Execution logs"],
     icon: <FaBrain />,
-    demoLink: "#",
-    liveLink: "#",
-    repoLink: "#"
+    demoLink: "https://youtu.be/Pmp9wJyD30Q?si=n7_GPYyfZgMnUmiB",
+    liveLink: "https://nexe-agent-agentic-ai-developer-autonomous-business-agent.vercel.app/",
+    repoLink: "https://github.com/kristinasamuel/Nexe-Agent-Agentic-AI-Developer-Internship-Tasks-/tree/main/ADVANCED/Autonomous-Business-Agent"
   },
   {
     title: "Multi-Agent System",
@@ -244,7 +244,7 @@ export default function Dashboard() {
               <a href="mailto:kristins97@gmail.com" className="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center text-gray-600 hover:bg-indigo-600 hover:text-white transition-all dark:bg-zinc-800 dark:text-zinc-400">
                 <FaEnvelope />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center text-gray-600 hover:bg-indigo-600 hover:text-white transition-all dark:bg-zinc-800 dark:text-zinc-400">
+              <a href="" className="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center text-gray-600 hover:bg-indigo-600 hover:text-white transition-all dark:bg-zinc-800 dark:text-zinc-400">
                 <FaGithub />
               </a>
               <a href="#" className="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center text-gray-600 hover:bg-indigo-600 hover:text-white transition-all dark:bg-zinc-800 dark:text-zinc-400">

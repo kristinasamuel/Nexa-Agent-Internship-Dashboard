@@ -65,9 +65,9 @@ const projects = [
     level: "Advanced",
     features: ["Separate Agents", "Communication Layer", "Task Delegation"],
     icon: <FaUsers />,
-    demoLink: "#",
-    liveLink: "#",
-    repoLink: "#"
+    demoLink: "https://youtu.be/VuTsnXms40c?si=6V6c_HC7MaGt2DcU",
+    liveLink: "https://nexe-agent-agentic-ai-developer-multi-agent-system.vercel.app/",
+    repoLink: "https://github.com/kristinasamuel/Nexe-Agent-Agentic-AI-Developer-Internship-Tasks-/tree/main/ADVANCED/Multi-Agent-System"
   },
 ];
 

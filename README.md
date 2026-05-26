@@ -3,6 +3,7 @@
 
 A high-performance dashboard built to showcase **Agentic AI Development** projects completed during the NexaAgent Internship. This dashboard serves as a central hub for tracking progress across Beginner, Intermediate, and Advanced AI tasks.
 
+live link : https://nexa-agent-internship-dashboard.vercel.app
 ---
 
 ## 🌟 Key Features
